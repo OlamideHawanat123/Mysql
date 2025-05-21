@@ -1,0 +1,1 @@
+SELECT ALL FROM cape_codd.inventory
